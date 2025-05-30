@@ -11,3 +11,4 @@ snowflake-sqlalchemy
 sqlparse
 scikit-learn
 mysql-connector-python
+langchain
