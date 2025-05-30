@@ -1,0 +1,11 @@
+streamlit
+pandas
+sqlalchemy
+matplotlib
+seaborn
+plotly
+altair
+openai
+xlsxwriter
+snowflake-connector-python
+snowflake-sqlalchemy
