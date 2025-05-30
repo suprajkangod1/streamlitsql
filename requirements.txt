@@ -6,6 +6,8 @@ seaborn
 plotly
 altair
 openai
-xlsxwriter
 snowflake-connector-python
 snowflake-sqlalchemy
+sqlparse
+scikit-learn
+mysql-connector-python
