@@ -5,7 +5,7 @@ def get_sqlalchemy_uri():
     # Edit these credentials as per your MySQL setup
     username = "root"
     password = "Welcome@123"
-    host = "localhost"
+    host = "192.168.1.102"
     port = 3306
     database = "test"
 
