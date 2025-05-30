@@ -12,3 +12,4 @@ sqlparse
 scikit-learn
 mysql-connector-python
 langchain
+pymysql
